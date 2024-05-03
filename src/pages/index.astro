@@ -1,5 +1,6 @@
 ---
-
+import { Icon } from "astro-icon/components";
+import { categories, total } from "./categories.js";
 ---
 
 <html lang="en">
@@ -11,12 +12,42 @@
 		<title>Curated List Of Latest Trends</title>
 	</head>
 	<body
-		class="w-full h-full bg-[url('/src/images/background.jpg')] bg-no-repeat bg-center bg-fixed bg-cover flex justify-center"
+		class="w-full h-full bg-[url('/src/images/background.jpg')] bg-no-repeat bg-center bg-fixed bg-cover flex flex-col justify-center items-center"
 	>
 		<h1
 			class="text-4xl w-3/5 mt-5 p-3 text-center bg-blue-200 text-blue-600 rounded-lg"
 		>
 			Curated List Of Latest Trends 🚀 💻 📘
 		</h1>
+
+		<h1
+			class="w-3/5 mt-5 p-2 rounded-lg flex justify-center items-center bg-gray-200"
+		>
+			<Icon name="list-check" width={28} height={28} />
+			<p class="text-2xl ml-3">Total Sources: {total}</p>
+		</h1>
+
+		<ul class="w-3/5 m-5 bg-white border border-gray-200 rounded-lg">
+			<li
+				class="w-full px-4 py-2 border-b border-gray-200 rounded-t-lg flex justify-center items-center bg-gray-200"
+			>
+				<Icon name="youtube" width={28} height={28} />
+				<p class="text-2xl ml-3">YouTube ({categories.youtube.length})</p>
+			</li>
+			{
+				categories.youtube.map((v) => (
+					<li class="w-full px-4 py-2 border-b border-gray-200 rounded-t-lg flex items-center">
+						<img src={v.image} class="rounded-full w-[100px] h-[100px]" />
+						<a
+							href={v.link}
+							target="_blank"
+							class="ml-3 text-2xl bg-blue-600 text-white rounded-lg p-2"
+						>
+							{v.title}
+						</a>
+					</li>
+				))
+			}
+		</ul>
 	</body>
 </html>
