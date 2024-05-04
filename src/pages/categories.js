@@ -169,6 +169,72 @@ export const categories = {
       link: "https://www.youtube.com/@Honeypotio/videos",
     },
   ],
+  blogs: [
+    {
+      title: "ReactJS Blog",
+      link: "https://react.dev/blog",
+    },
+    {
+      title: "ReactJS Blog - Server Components",
+      link: "https://react.dev/reference/rsc/server-components",
+    },
+    {
+      title: "ReactJS Blog - Server Actions",
+      link: "https://react.dev/reference/rsc/server-actions",
+    },
+    {
+      title: "This Week In React (Newsletter)",
+      link: "https://thisweekinreact.com/newsletter",
+    },
+    {
+      title: "Best of JS",
+      link: "https://bestofjs.org/projects",
+    },
+    {
+      title: "JavaScript Rising Stars",
+      link: "https://risingstars.js.org/",
+    },
+    {
+      title: "Josh Comeau",
+      link: "https://www.joshwcomeau.com/",
+    },
+    {
+      title: "Making Sense of React Server Components by Josh Comeau",
+      link: "https://www.joshwcomeau.com/react/server-components/",
+    },
+    {
+      title: "MDN Blog",
+      link: "https://developer.mozilla.org/en-US/blog/",
+    },
+    {
+      title: "Overreacted.io Blog (Dan Abramov)",
+      link: "https://overreacted.io/",
+    },
+    {
+      title: "GitHub Product Blog",
+      link: "https://github.blog/category/product/",
+    },
+    {
+      title: "Google Chrome Blog",
+      link: "https://developer.chrome.com/blog",
+    },
+    {
+      title: "React @ Medium",
+      link: "https://medium.com/tag/react",
+    },
+    {
+      title: "ECMAScript Language Specification",
+      link: "https://tc39.es/ecma262/#sec-intro",
+    },
+    {
+      title: "React Status (Newsletter)",
+      link: "https://react.statuscode.com/latest",
+    },
+    {
+      title: "dev.to/react",
+      link: "https://dev.to/t/react",
+    },
+  ]
 };
 
 export const total = Object.values(categories).reduce((a, b) => a + b.length, 0);
