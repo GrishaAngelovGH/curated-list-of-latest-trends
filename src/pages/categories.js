@@ -234,7 +234,79 @@ export const categories = {
       title: "dev.to/react",
       link: "https://dev.to/t/react",
     },
-  ]
+  ],
+  github: [
+    {
+      title: "React Strict DOM",
+      link: "https://github.com/facebook/react-strict-dom",
+      description: "React Strict DOM (RSD) is an experimental integration of React DOM and StyleX that aims to improve and standardize the development of styled React components for web and native.",
+      commit: "Initial Commit: Feb 2024",
+      release: "Latest Release: May 2024 v0.0.11"
+    },
+    {
+      title: "Gleam",
+      link: "https://github.com/gleam-lang/gleam",
+      description: "Gleam is a programming language for building type-safe systems that scale. Gleam compiles to Erlang or JavaScript.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Mar 2024"
+    },
+    {
+      title: "shadcn/ui",
+      link: "https://github.com/shadcn-ui/ui",
+      description: "Customizable components that you can copy and paste into your apps.",
+      commit: "Initial Commit: Jan 2023",
+      release: "Latest Release: Jan 2024 v0.8.0"
+    },
+    {
+      title: "QwikJS",
+      link: "https://github.com/QwikDev/qwik",
+      description: "Qwik offers the fastest possible page load times - regardless of the complexity of your website. Qwik is so fast because it allows fully interactive sites to load with almost no JavaScript and pickup from where the server left off.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - May 2023"
+    },
+    {
+      title: "BunJS",
+      link: "https://github.com/oven-sh/bun",
+      description: "At its core is the Bun runtime, a fast JavaScript runtime designed as a drop-in replacement for Node.js.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Sep 2023"
+    },
+    {
+      title: "NueJS",
+      link: "https://github.com/nuejs/nue",
+      description: "Nue(kit) is a static website generator and web application builder. It's an amazingly simple and powerful alternative to Next.js and Astro.",
+      commit: "Initial Commit: Sep 2023",
+      release: "Latest Release: Mar 2024 v0.5.0"
+    },
+    {
+      title: "NextJS",
+      link: "https://github.com/vercel/next.js",
+      description: "Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation.",
+      commit: "",
+      release: "Latest Major Release (v14) - Oct 2023"
+    },
+    {
+      title: "StyleX",
+      link: "https://github.com/facebook/stylex",
+      description: "StyleX takes the developer experience of CSS-in-JS libraries and uses compile-time tooling to bridge it with the performance and scalability of static CSS. However, StyleX is not just another compiler-based CSS-in-JS library. StyleX has been carefully designed to meet the requirements of large applications, reusable component libraries, and statically typed codebases.",
+      commit: "Initial Commit: Nov 2023",
+      release: "Latest Release: Apr 2024 v0.6.1"
+    },
+    {
+      title: "Redux Toolkit",
+      link: "https://github.com/reduxjs/redux-toolkit",
+      description: "The official, opinionated, batteries-included toolset for efficient Redux development.",
+      commit: "",
+      release: "Latest Major Release (v2) - Dec 2023"
+    },
+    {
+      title: "Tauri",
+      link: "https://github.com/tauri-apps/tauri",
+      description: "Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Jun 2022"
+    },
+  ],
 };
 
 export const total = Object.values(categories).reduce((a, b) => a + b.length, 0);
