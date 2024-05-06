@@ -306,6 +306,90 @@ export const categories = {
       commit: "",
       release: "Initial Release (v1.0.0) - Jun 2022"
     },
+    {
+      title: "AstroJS",
+      link: "https://github.com/withastro/astro",
+      description: "Astro is the web framework for building content-driven websites like blogs, marketing, and e-commerce. Astro is best-known for pioneering a new frontend architecture to reduce JavaScript overhead and complexity compared to other frameworks.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Aug 2022"
+    },
+    {
+      title: "Ant Design",
+      link: "https://github.com/ant-design/ant-design",
+      description: "An enterprise-class UI design language and React UI library.",
+      commit: "",
+      release: "Latest Major Release (v5) - Nov 2022"
+    },
+    {
+      title: "ClerkJS",
+      link: "https://github.com/clerk/javascript",
+      description: "ClerkJS is our foundational JavaScript library for building user management and authentication. It enables you to register, sign in, verify and manage users for your application using highly customizable flows.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Jan 2021"
+    },
+    {
+      title: "Refine",
+      link: "https://github.com/refinedev/refine",
+      description: "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Apr 2021"
+    },
+    {
+      title: "SWR",
+      link: "https://github.com/vercel/swr",
+      description: "SWR is a React Hooks library for data fetching. The name “SWR” is derived from stale-while-revalidate, a cache invalidation strategy popularized by HTTP RFC 5861. SWR first returns the data from cache (stale), then sends the request (revalidate), and finally comes with the up-to-date data again.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Aug 2021"
+    },
+    {
+      title: "RemixJS",
+      link: "https://github.com/remix-run/remix",
+      description: "Remix is a full stack web framework that lets you focus on the user interface and work back through web fundamentals to deliver a fast, slick, and resilient user experience that deploys to any Node.js server and even non-Node.js environments at the edge like Cloudflare Workers.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Nov 2021"
+    },
+    {
+      title: "React Query",
+      link: "https://github.com/TanStack/query",
+      description: "Hooks for fetching, caching and updating asynchronous data in React, Solid, Svelte and Vue.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Feb 2020"
+    },
+    {
+      title: "HTMX",
+      link: "https://github.com/bigskysoftware/htmx",
+      description: "htmx allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Nov 2020"
+    },
+    {
+      title: "TensorFlow.js",
+      link: "https://github.com/tensorflow/tfjs",
+      description: "TensorFlow.js is an open-source hardware-accelerated JavaScript library for training and deploying machine learning models.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Mar 2019"
+    },
+    {
+      title: "Zustand",
+      link: "https://github.com/pmndrs/zustand",
+      description: "A small, fast and scalable bearbones state-management solution using simplified flux principles. Has a comfy API based on hooks, isn't boilerplatey or opinionated.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Jun 2019"
+    },
+    {
+      title: "AlpineJS",
+      link: "https://github.com/alpinejs/alpine",
+      description: "A rugged, minimal framework for composing behavior directly in your markup.",
+      commit: "",
+      release: "Initial Release (v1.0.0) - Dec 2019"
+    },
+    {
+      title: "ECMAScript New Features",
+      link: "https://github.com/daumann/ECMAScript-new-features-list",
+      description: "A comprehensive list of new ES features from ES2015 to ES2023",
+      commit: "",
+      release: ""
+    },
   ],
 };
 
