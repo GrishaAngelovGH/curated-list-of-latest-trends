@@ -115,6 +115,27 @@ import { categories, total } from "./categories.js";
 					</li>
 				))
 			}
+			<li
+				class="px-4 py-2 border-b border-gray-200 flex justify-center items-center bg-gray-200"
+			>
+				<Icon name="display" width={28} height={28} />
+				<p class="text-2xl ml-3">
+					Online Courses ({categories.courses.length})
+				</p>
+			</li>
+			{
+				categories.courses.map((v) => (
+					<li class="px-4 py-2 border-b border-gray-200 rounded-t-lg flex items-center">
+						<a
+							href={v.link}
+							target="_blank"
+							class="ml-3 text-2xl bg-blue-600 text-white rounded-lg p-2"
+						>
+							{v.title}
+						</a>
+					</li>
+				))
+			}
 		</ul>
 	</body>
 </html>

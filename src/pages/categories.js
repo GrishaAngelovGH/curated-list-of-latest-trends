@@ -440,6 +440,12 @@ export const categories = {
       title: "Programming Throwdown @ Castbox",
       link: "https://castbox.fm/channel/Programming-Throwdown-id3991684?country=us",
     },
+  ],
+  courses: [
+    {
+      title: "egghead.io",
+      link: "https://egghead.io/q?access_state=free&sortBy=created&type=playlist",
+    },
   ]
 };
 
