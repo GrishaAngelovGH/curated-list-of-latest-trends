@@ -446,6 +446,24 @@ export const categories = {
       title: "egghead.io",
       link: "https://egghead.io/q?access_state=free&sortBy=created&type=playlist",
     },
+  ],
+  surveys: [
+    {
+      title: "State of React",
+      link: "https://stateofreact.com/en-US",
+    },
+    {
+      title: "State of HTML",
+      link: "https://stateofhtml.com/en-US",
+    },
+    {
+      title: "State of JavaScript",
+      link: "https://stateofjs.com/en-US",
+    },
+    {
+      title: "State of CSS",
+      link: "https://stateofcss.com/en-US",
+    },
   ]
 };
 
