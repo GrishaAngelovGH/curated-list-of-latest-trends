@@ -391,6 +391,56 @@ export const categories = {
       release: ""
     },
   ],
+  podcasts: [
+    {
+      image:
+        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6d/32/15/6d32155b-12ec-8d15-2f76-256e8e7f8dcf/mza_16949506039235574720.jpg/400x400bb.jpg",
+      title: "The Stack Overflow Podcast @ Castbox",
+      link: "https://castbox.fm/channel/The-Stack-Overflow-Podcast-id2410711?country=us",
+    },
+    {
+      image:
+        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/8e/31/88/8e318808-56a6-b897-6f98-71cf214b54a3/mza_7508458937281322007.png/400x400bb.jpg",
+      title: "JS Party @ Castbox",
+      link: "https://castbox.fm/channel/JS-Party%3A-JavaScript%2C-CSS%2C-Web-Development-id480845?country=us",
+    },
+    {
+      image:
+        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/b1/43/b5b14333-7cbe-123d-c444-0204e5d08102/mza_311421542997449775.png/400x400bb.jpg",
+      title: "The Changelog @ Castbox",
+      link: "https://castbox.fm/channel/The-Changelog%3A-Software-Development%2C-Open-Source-id397058?country=us",
+    },
+    {
+      image:
+        "https://static.libsyn.com/p/assets/6/4/b/8/64b8ee9cb432ec4188c4a68c3ddbc4f2/Syntax_Cover_Art.png",
+      title: "Syntax @ Castbox",
+      link: "https://castbox.fm/channel/Syntax---Tasty-Web-Development-Treats-id1462603?country=us",
+    },
+    {
+      image:
+        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/0b/c8/d4/0bc8d428-3772-bd3d-32c0-b3e55b799fa5/mza_7689557511800419761.jpg/400x400bb.jpg",
+      title: "Front End Happy Hour @ Castbox",
+      link: "https://castbox.fm/channel/Front-End-Happy-Hour-id1302807?country=us",
+    },
+    {
+      image:
+        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/02/14/e7/0214e76e-2c53-3a08-dd88-5eccb632cd91/mza_17972554827762098712.jpg/400x400bb.jpg",
+      title: "React Round Up @ Castbox",
+      link: "https://castbox.fm/channel/React-Round-Up-id6107994?country=us",
+    },
+    {
+      image:
+        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/69/1b/04/691b0454-5494-464b-f441-88717145120b/mza_1050018416782084089.jpg/400x400bb.jpg",
+      title: "JavaScript Jabber @ Castbox",
+      link: "https://castbox.fm/channel/JavaScript-Jabber-id6087187?country=us",
+    },
+    {
+      image:
+        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/a0/6b/0ea06bef-d724-4ebf-61db-69b969390a17/mza_9075267775248923469.jpg/400x400bb.jpg",
+      title: "Programming Throwdown @ Castbox",
+      link: "https://castbox.fm/channel/Programming-Throwdown-id3991684?country=us",
+    },
+  ]
 };
 
 export const total = Object.values(categories).reduce((a, b) => a + b.length, 0);
