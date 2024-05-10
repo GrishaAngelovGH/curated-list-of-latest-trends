@@ -464,6 +464,152 @@ export const categories = {
       title: "State of CSS",
       link: "https://stateofcss.com/en-US",
     },
+  ],
+  socials: [
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1605762947686375425/lsoGWWty_400x400.jpg",
+      title: "Theo - t3.gg",
+      link: "https://x.com/t3dotgg",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1759330620160049152/2i_wkOoK_400x400.jpg",
+      title: "ThePrimeagen",
+      link: "https://x.com/ThePrimeagen",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1735466137834364928/MSjXerhM_400x400.jpg",
+      title: "Dan Abramov",
+      link: "https://x.com/dan_abramov2",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1746047271601594368/_06N49O7_400x400.jpg",
+      title: "Ryan Florence",
+      link: "https://x.com/ryanflorence",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1587647097670467584/adWRdqQ6_400x400.jpg",
+      title: "Lee Robinson",
+      link: "https://x.com/leeerob",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1719764293434920960/BgBsj9Cu_400x400.jpg",
+      title: "Josh W. Comeau",
+      link: "https://x.com/JoshWComeau",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/573206276819140608/gKAusMeX_400x400.jpeg",
+      title: "Seb (This Week In React)",
+      link: "https://x.com/sebastienlorber",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1628461105235492864/wSjxF6L0_400x400.jpg",
+      title: "Miško Hevery (Builder.io/Qwik)",
+      link: "https://x.com/mhevery",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1567269493608714241/6ACZo99k_400x400.jpg",
+      title: "Kent C. Dodds",
+      link: "https://x.com/kentcdodds",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1613641831706763264/DNB4EtGv_400x400.jpg",
+      title: "Andrew Clark",
+      link: "https://x.com/acdlite",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1506979715919364119/zibgmk12_400x400.jpg",
+      title: "Kevin Powell",
+      link: "https://x.com/KevinJPowell",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1525874017630035970/veQQouGw_400x400.jpg",
+      title: "Cory House",
+      link: "https://x.com/housecor",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1012717264108318722/9lP-d2yM_400x400.jpg",
+      title: "Steve Schoger",
+      link: "https://x.com/steveschoger",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1316713174033461249/kAcqsHmZ_400x400.jpg",
+      title: "Frontend Daily",
+      link: "https://x.com/FrontendDaily",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1055241662409199616/fm6ZkYCV_400x400.jpg",
+      title: "React Advanced London",
+      link: "https://x.com/ReactAdvanced",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1098265777269063683/Jqo_JLJm_400x400.png",
+      title: "JSNation",
+      link: "https://x.com/thejsnation",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1600085573028438017/NwkYtWIA_400x400.png",
+      title: "CityJS Conferences",
+      link: "https://x.com/cityjsconf",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1509903834151325697/1Ked07gR_400x400.jpg",
+      title: "JavaScript",
+      link: "https://x.com/JavaScript",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1497227696438398981/zuPiHqzd_400x400.jpg",
+      title: "JavaScript Daily",
+      link: "https://x.com/JavaScriptDaily",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1694461743865749504/QyaBFrhh_400x400.jpg",
+      title: "DEV Community",
+      link: "https://x.com/ThePracticalDev",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1767351110228918272/3Pndc5OT_400x400.png",
+      title: "Vercel",
+      link: "https://x.com/vercel",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg",
+      title: "Next.js",
+      link: "https://x.com/nextjs",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1593304942210478080/TUYae5z7_400x400.jpg",
+      title: "shadcn",
+      link: "https://x.com/shadcn",
+    },
+    {
+      image:
+        "https://pbs.twimg.com/profile_images/1632785343433908224/SnMGR19O_400x400.png",
+      title: "Astro",
+      link: "https://x.com/astrodotbuild",
+    },
   ]
 };
 
