@@ -241,7 +241,7 @@ export const categories = {
       link: "https://github.com/facebook/react-strict-dom",
       description: "React Strict DOM (RSD) is an experimental integration of React DOM and StyleX that aims to improve and standardize the development of styled React components for web and native.",
       commit: "Initial Commit: Feb 2024",
-      release: "Latest Release: May 2024 v0.0.11"
+      release: "Latest Release: June 2024 v0.0.15"
     },
     {
       title: "Gleam",
@@ -276,7 +276,7 @@ export const categories = {
       link: "https://github.com/nuejs/nue",
       description: "Nue(kit) is a static website generator and web application builder. It's an amazingly simple and powerful alternative to Next.js and Astro.",
       commit: "Initial Commit: Sep 2023",
-      release: "Latest Release: Mar 2024 v0.5.0"
+      release: "Latest Release: Mar 2024 v0.5.2"
     },
     {
       title: "NextJS",
@@ -468,7 +468,7 @@ export const categories = {
   socials: [
     {
       image:
-        "https://pbs.twimg.com/profile_images/1605762947686375425/lsoGWWty_400x400.jpg",
+        "https://pbs.twimg.com/profile_images/1799982162831396865/Fnol01I1_400x400.jpg",
       title: "Theo - t3.gg",
       link: "https://x.com/t3dotgg",
     },
