@@ -486,7 +486,7 @@ export const categories = {
     },
     {
       image:
-        "https://pbs.twimg.com/profile_images/1746047271601594368/_06N49O7_400x400.jpg",
+        "https://pbs.twimg.com/profile_images/1804607553655205888/2NTIb-Mr_400x400.jpg",
       title: "Ryan Florence",
       link: "https://x.com/ryanflorence",
     },
@@ -564,7 +564,7 @@ export const categories = {
     },
     {
       image:
-        "https://pbs.twimg.com/profile_images/1600085573028438017/NwkYtWIA_400x400.png",
+        "https://pbs.twimg.com/profile_images/1807044912182931456/Rkt4vmvc_400x400.jpg",
       title: "CityJS Conferences",
       link: "https://x.com/cityjsconf",
     },
