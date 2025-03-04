@@ -1,170 +1,142 @@
 export const categories = {
   youtube: [
     {
-      image:
-        "https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s160-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/theo.jpg",
       title: "Theo Browne (ex-Twitch)",
       link: "https://www.youtube.com/@t3dotgg",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s160-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/brad-traversy.jpg",
       title: "Brad Traversy",
       link: "https://www.youtube.com/@TraversyMedia",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_k7J8-LWCa5QLDnY3x9kaArgJoSSMory4hgkYSBOFgvEg=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/primeagen.jpg",
       title: "ThePrimeagen (ex-Netflix)",
       link: "https://www.youtube.com/@ThePrimeTimeagen",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_mQczyuvnXgEq8fApoOXpG2Yw_JKYqRA7kVOhNFuHLz9Vc=s160-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/kevin-powell.jpg",
       title: "Kevin Powell",
       link: "https://www.youtube.com/@KevinPowell",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_mUPDVdzH_xKT-q_hC1h2-7hJKd6GnKIY3Zydjv-SEmpc0=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/jack-herrington.jpg",
       title: "Jack Herrington",
       link: "https://www.youtube.com/@jherr/videos",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_nFNsnkrn5f2X1v1ww_s1h93T3MEN7pTsPpJMMQBe68HsA=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/free-code-camp.jpg",
       title: "Free Code Camp",
       link: "https://www.youtube.com/@freecodecamp",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_m9F60Dip2aA-2SkED8ssMmJ1oAiqU7JVevR8ZWKnqsNnU=s176-c-k-c0x00ffffff-no-rj-mo",
+      image: "/profile-pics/yt/ndc-conferences.jpg",
       title: "NDC Conferences",
       link: "https://www.youtube.com/@NDC",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/k31S2wNch7tS34F4au5tniAyX-BB1-xbtcS6ti6LRh6EaI5PkOsjCFqUUmeKQOZ4OcfSlTDBpg=s160-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-conf.jpg",
       title: "React Conf",
       link: "https://www.youtube.com/@ReactConfOfficial",
     },
     {
-      image:
-        "https://i.ytimg.com/vi/E-50aGAZG38/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDHhaxngvQHriwzXPqfcoIeBTS18g",
+      image: "/profile-pics/yt/react-london-meetups.jpg",
       title: "React London Meetups",
       link: "https://www.youtube.com/playlist?list=PLW6ORi0XZU0BL3Up9mXpP75ilJBDOjMsQ",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/YNL37Ul2RHQp9MCQkAOMFryfkvTGioUeJ6AVPS0LTpd-6ZMPVuF0nohS_0VL2GWwsP68u35Y9Tk=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-conf-gitnation.jpg",
       title: "React Conferences by GitNation",
       link: "https://www.youtube.com/@ReactConferences",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/YNL37Ul2RHQp9MCQkAOMFryfkvTGioUeJ6AVPS0LTpd-6ZMPVuF0nohS_0VL2GWwsP68u35Y9Tk=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-conf-gitnation.jpg",
       title: "React Advanced London 2023",
       link: "https://www.youtube.com/watch?v=hn_L56ypX1A",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/YNL37Ul2RHQp9MCQkAOMFryfkvTGioUeJ6AVPS0LTpd-6ZMPVuF0nohS_0VL2GWwsP68u35Y9Tk=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-conf-gitnation.jpg",
       title: "React Advanced London 2022",
       link: "https://www.youtube.com/playlist?list=PLNBNS7NRGKMEi5oMDs4jRwiqIKbyc69MR",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/YNL37Ul2RHQp9MCQkAOMFryfkvTGioUeJ6AVPS0LTpd-6ZMPVuF0nohS_0VL2GWwsP68u35Y9Tk=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-conf-gitnation.jpg",
       title: "React Advanced London 2021",
       link: "https://www.youtube.com/playlist?list=PLNBNS7NRGKMHk3w8wv7pBbBMUSjaplurj",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/YNL37Ul2RHQp9MCQkAOMFryfkvTGioUeJ6AVPS0LTpd-6ZMPVuF0nohS_0VL2GWwsP68u35Y9Tk=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-conf-gitnation.jpg",
       title: "React Advanced London 2019",
       link: "https://www.youtube.com/playlist?list=PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/YNL37Ul2RHQp9MCQkAOMFryfkvTGioUeJ6AVPS0LTpd-6ZMPVuF0nohS_0VL2GWwsP68u35Y9Tk=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-conf-gitnation.jpg",
       title: "React Summit 2023",
       link: "https://www.youtube.com/playlist?list=PLNBNS7NRGKME880lcYdw9QwkCiDYQFgCK",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/YNL37Ul2RHQp9MCQkAOMFryfkvTGioUeJ6AVPS0LTpd-6ZMPVuF0nohS_0VL2GWwsP68u35Y9Tk=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-conf-gitnation.jpg",
       title: "React Summit 2022",
       link: "https://www.youtube.com/playlist?list=PLNBNS7NRGKMGeJQWT_E6jwPEf5lcV1O-2",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_ltRigbEjK9HfAhlU6gVdqYyHN7uulgrQfff_RXtLU0e-8=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/js-conf.jpg",
       title: "JSConf",
       link: "https://www.youtube.com/@jsconf_/videos",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/go-to-conf.jpg",
       title: "GOTO Conferences",
       link: "https://www.youtube.com/@GOTO-/videos",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ezzZA1bOxrR4gm_Bg5SBroOZi8E7dyee6OGKY15fM-lxop-UVTlDfz_uCpY9QSZPostKNMxc=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/js-world.jpg",
       title: "JSWORLD Conference",
       link: "https://www.youtube.com/@JSWORLDConference/videos",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ezzZA1bOxrR4gm_Bg5SBroOZi8E7dyee6OGKY15fM-lxop-UVTlDfz_uCpY9QSZPostKNMxc=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/js-world.jpg",
       title: "React Miami 2023",
       link: "https://www.youtube.com/playlist?list=PL02pdjMT4gWwIDHt4mzmzbiXU-7Sk1LN5",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ezzZA1bOxrR4gm_Bg5SBroOZi8E7dyee6OGKY15fM-lxop-UVTlDfz_uCpY9QSZPostKNMxc=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/js-world.jpg",
       title: "React Miami 2022",
       link: "https://www.youtube.com/playlist?list=PL02pdjMT4gWxC3sYlCBzPBPptb6eUvIZv",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_ne03Xy-WJcYQHV7OYRy0FbGusuEzJy9ZsgJ6RWgJTNew=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-world.jpg",
       title: "Real World React",
       link: "https://www.youtube.com/@RealWorldReact/videos",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_ne03Xy-WJcYQHV7OYRy0FbGusuEzJy9ZsgJ6RWgJTNew=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-world.jpg",
       title: "Reactathon 2023",
       link: "https://www.youtube.com/playlist?list=PLRvKvw42Rc7MoxLVE_9qM24NAjqDdbBJc",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_ne03Xy-WJcYQHV7OYRy0FbGusuEzJy9ZsgJ6RWgJTNew=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-world.jpg",
       title: "Reactathon 2022",
       link: "https://www.youtube.com/playlist?list=PLRvKvw42Rc7O0eWo2m_guXdZsGTEQM_jj",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/dSM3d9uWNRnqdRLlVXro0Sjb1UG2RBOJdk7zY0QvlDFbj91jVU0UlbqY7ZdnaVKqdjFiwxGbjZY=s160-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/react-rally.jpg",
       title: "ReactRally",
       link: "https://www.youtube.com/@reactrally2196/videos",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/as8Rhow7_2_781OfflprsqqRKN4XTJwkh4IIqWTleZHmgiOsxAXgJe0vajxzFVHzcBSqQO6G=s160-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/epic-web-dev.jpg",
       title: "Epic Web Dev",
       link: "https://www.youtube.com/@EpicWebDev/videos",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_k3yUmGX4HUMqqjtPUBUtevOGr6JNnU-PRxISzSUwQqtg=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/dev-tools.jpg",
       title: "devtools-fm",
       link: "https://www.youtube.com/@devtoolsfm/videos",
     },
     {
-      image:
-        "https://yt3.googleusercontent.com/ytc/AIdro_mLnopXX-jYkH2ENEmuVwLf61NPhGobJmyBx-HaNB1a8_0=s176-c-k-c0x00ffffff-no-rj",
+      image: "/profile-pics/yt/honeypot.jpg",
       title: "Honeypot",
       link: "https://www.youtube.com/@Honeypotio/videos",
     },
@@ -241,7 +213,7 @@ export const categories = {
       link: "https://github.com/facebook/react-strict-dom",
       description: "React Strict DOM (RSD) is an experimental integration of React DOM and StyleX that aims to improve and standardize the development of styled React components for web and native.",
       commit: "Initial Commit: Feb 2024",
-      release: "Latest Release: June 2024 v0.0.15"
+      release: "Latest Release: Jan 2025 v0.0.34"
     },
     {
       title: "Gleam",
@@ -255,7 +227,7 @@ export const categories = {
       link: "https://github.com/shadcn-ui/ui",
       description: "Customizable components that you can copy and paste into your apps.",
       commit: "Initial Commit: Jan 2023",
-      release: "Latest Release: Jan 2024 v0.8.0"
+      release: "Latest Release: Jan 2025 v2.3.0"
     },
     {
       title: "QwikJS",
@@ -276,21 +248,21 @@ export const categories = {
       link: "https://github.com/nuejs/nue",
       description: "Nue(kit) is a static website generator and web application builder. It's an amazingly simple and powerful alternative to Next.js and Astro.",
       commit: "Initial Commit: Sep 2023",
-      release: "Latest Release: Mar 2024 v0.5.2"
+      release: "Latest Release: Jan 2025 v1.0.0-RC.2"
     },
     {
       title: "NextJS",
       link: "https://github.com/vercel/next.js",
       description: "Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation.",
       commit: "",
-      release: "Latest Major Release (v14) - Oct 2023"
+      release: "Latest Major Release (v15) - Oct 2024"
     },
     {
       title: "StyleX",
       link: "https://github.com/facebook/stylex",
       description: "StyleX takes the developer experience of CSS-in-JS libraries and uses compile-time tooling to bridge it with the performance and scalability of static CSS. However, StyleX is not just another compiler-based CSS-in-JS library. StyleX has been carefully designed to meet the requirements of large applications, reusable component libraries, and statically typed codebases.",
       commit: "Initial Commit: Nov 2023",
-      release: "Latest Release: Apr 2024 v0.6.1"
+      release: "Latest Release: Mar 2025 v0.11.1"
     },
     {
       title: "Redux Toolkit",
@@ -393,50 +365,42 @@ export const categories = {
   ],
   podcasts: [
     {
-      image:
-        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6d/32/15/6d32155b-12ec-8d15-2f76-256e8e7f8dcf/mza_16949506039235574720.jpg/400x400bb.jpg",
+      image: "/profile-pics/podcasts/stack-overflow.jpg",
       title: "The Stack Overflow Podcast @ Castbox",
       link: "https://castbox.fm/channel/The-Stack-Overflow-Podcast-id2410711?country=us",
     },
     {
-      image:
-        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/8e/31/88/8e318808-56a6-b897-6f98-71cf214b54a3/mza_7508458937281322007.png/400x400bb.jpg",
+      image: "/profile-pics/podcasts/js-party.jpg",
       title: "JS Party @ Castbox",
       link: "https://castbox.fm/channel/JS-Party%3A-JavaScript%2C-CSS%2C-Web-Development-id480845?country=us",
     },
     {
-      image:
-        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/b1/43/b5b14333-7cbe-123d-c444-0204e5d08102/mza_311421542997449775.png/400x400bb.jpg",
+      image: "/profile-pics/podcasts/changelog.jpg",
       title: "The Changelog @ Castbox",
       link: "https://castbox.fm/channel/The-Changelog%3A-Software-Development%2C-Open-Source-id397058?country=us",
     },
     {
-      image:
-        "https://static.libsyn.com/p/assets/6/4/b/8/64b8ee9cb432ec4188c4a68c3ddbc4f2/Syntax_Cover_Art.png",
+      image: "/profile-pics/podcasts/syntax.png",
       title: "Syntax @ Castbox",
       link: "https://castbox.fm/channel/Syntax---Tasty-Web-Development-Treats-id1462603?country=us",
     },
     {
-      image:
-        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/0b/c8/d4/0bc8d428-3772-bd3d-32c0-b3e55b799fa5/mza_7689557511800419761.jpg/400x400bb.jpg",
+      image: "/profile-pics/podcasts/front-end-hh.jpg",
       title: "Front End Happy Hour @ Castbox",
       link: "https://castbox.fm/channel/Front-End-Happy-Hour-id1302807?country=us",
     },
     {
-      image:
-        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/02/14/e7/0214e76e-2c53-3a08-dd88-5eccb632cd91/mza_17972554827762098712.jpg/400x400bb.jpg",
+      image: "/profile-pics/podcasts/react-round-up.jpg",
       title: "React Round Up @ Castbox",
       link: "https://castbox.fm/channel/React-Round-Up-id6107994?country=us",
     },
     {
-      image:
-        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/69/1b/04/691b0454-5494-464b-f441-88717145120b/mza_1050018416782084089.jpg/400x400bb.jpg",
+      image: "/profile-pics/podcasts/js-jabber.jpg",
       title: "JavaScript Jabber @ Castbox",
       link: "https://castbox.fm/channel/JavaScript-Jabber-id6087187?country=us",
     },
     {
-      image:
-        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/a0/6b/0ea06bef-d724-4ebf-61db-69b969390a17/mza_9075267775248923469.jpg/400x400bb.jpg",
+      image: "/profile-pics/podcasts/programming-throwdown.jpg",
       title: "Programming Throwdown @ Castbox",
       link: "https://castbox.fm/channel/Programming-Throwdown-id3991684?country=us",
     },
@@ -467,146 +431,112 @@ export const categories = {
   ],
   socials: [
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1799982162831396865/Fnol01I1_400x400.jpg",
+      image: "/profile-pics/ex-twitter/theo.jpg",
       title: "Theo - t3.gg",
       link: "https://x.com/t3dotgg",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1759330620160049152/2i_wkOoK_400x400.jpg",
+      image: "/profile-pics/ex-twitter/primeagen.jpg",
       title: "ThePrimeagen",
       link: "https://x.com/ThePrimeagen",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1735466137834364928/MSjXerhM_400x400.jpg",
-      title: "Dan Abramov",
-      link: "https://x.com/dan_abramov2",
-    },
-    {
-      image:
-        "https://pbs.twimg.com/profile_images/1804607553655205888/2NTIb-Mr_400x400.jpg",
+      image: "/profile-pics/ex-twitter/ryan-florence.jpeg",
       title: "Ryan Florence",
       link: "https://x.com/ryanflorence",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1587647097670467584/adWRdqQ6_400x400.jpg",
-      title: "Lee Robinson",
-      link: "https://x.com/leeerob",
-    },
-    {
-      image:
-        "https://pbs.twimg.com/profile_images/1719764293434920960/BgBsj9Cu_400x400.jpg",
+      image: "/profile-pics/ex-twitter/josh.jpg",
       title: "Josh W. Comeau",
       link: "https://x.com/JoshWComeau",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/573206276819140608/gKAusMeX_400x400.jpeg",
+      image: "/profile-pics/ex-twitter/seb.jpeg",
       title: "Seb (This Week In React)",
       link: "https://x.com/sebastienlorber",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1628461105235492864/wSjxF6L0_400x400.jpg",
+      image: "/profile-pics/ex-twitter/misko.jpg",
       title: "Miško Hevery (Builder.io/Qwik)",
       link: "https://x.com/mhevery",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1567269493608714241/6ACZo99k_400x400.jpg",
+      image: "/profile-pics/ex-twitter/kent.jpg",
       title: "Kent C. Dodds",
       link: "https://x.com/kentcdodds",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1613641831706763264/DNB4EtGv_400x400.jpg",
+      image: "/profile-pics/ex-twitter/andrew-clark.jpg",
       title: "Andrew Clark",
       link: "https://x.com/acdlite",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1506979715919364119/zibgmk12_400x400.jpg",
+      image: "/profile-pics/ex-twitter/kevin-powell.jpg",
       title: "Kevin Powell",
       link: "https://x.com/KevinJPowell",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1525874017630035970/veQQouGw_400x400.jpg",
+      image: "/profile-pics/ex-twitter/cory-house.jpg",
       title: "Cory House",
       link: "https://x.com/housecor",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1012717264108318722/9lP-d2yM_400x400.jpg",
+      image: "/profile-pics/ex-twitter/steve-schoger.jpg",
       title: "Steve Schoger",
       link: "https://x.com/steveschoger",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1316713174033461249/kAcqsHmZ_400x400.jpg",
+      image: "/profile-pics/ex-twitter/fe-daily.jpg",
       title: "Frontend Daily",
       link: "https://x.com/FrontendDaily",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1055241662409199616/fm6ZkYCV_400x400.jpg",
+      image: "/profile-pics/ex-twitter/react-advanced-london.jpg",
       title: "React Advanced London",
       link: "https://x.com/ReactAdvanced",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1098265777269063683/Jqo_JLJm_400x400.png",
+      image: "/profile-pics/ex-twitter/js-nation.png",
       title: "JSNation",
       link: "https://x.com/thejsnation",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1807044912182931456/Rkt4vmvc_400x400.jpg",
+      image: "/profile-pics/ex-twitter/city-js.jpg",
       title: "CityJS Conferences",
       link: "https://x.com/cityjsconf",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1509903834151325697/1Ked07gR_400x400.jpg",
+      image: "/profile-pics/ex-twitter/javascript.jpg",
       title: "JavaScript",
       link: "https://x.com/JavaScript",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1497227696438398981/zuPiHqzd_400x400.jpg",
+      image: "/profile-pics/ex-twitter/js-daily.jpg",
       title: "JavaScript Daily",
       link: "https://x.com/JavaScriptDaily",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1694461743865749504/QyaBFrhh_400x400.jpg",
+      image: "/profile-pics/ex-twitter/dev-community.jpg",
       title: "DEV Community",
       link: "https://x.com/ThePracticalDev",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1767351110228918272/3Pndc5OT_400x400.png",
+      image: "/profile-pics/ex-twitter/vercel.png",
       title: "Vercel",
       link: "https://x.com/vercel",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg",
+      image: "/profile-pics/ex-twitter/next-js.jpg",
       title: "Next.js",
       link: "https://x.com/nextjs",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1593304942210478080/TUYae5z7_400x400.jpg",
+      image: "/profile-pics/ex-twitter/shadcn.jpg",
       title: "shadcn",
       link: "https://x.com/shadcn",
     },
     {
-      image:
-        "https://pbs.twimg.com/profile_images/1632785343433908224/SnMGR19O_400x400.png",
+      image: "/profile-pics/ex-twitter/astro.png",
       title: "Astro",
       link: "https://x.com/astrodotbuild",
     },
